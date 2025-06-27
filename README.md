@@ -2,7 +2,7 @@
 
 A Model Context Protocol (MCP) server that provides comprehensive chart generation capabilities. This server offers a wide variety of chart types with comprehensive Zod schema validation for type-safe chart configuration.
 
-### Claude.AI Integration (Free Running Version)
+## Claude.AI Integration (Free Running Version)
 
 For immediate use with Claude.AI without local setup, use these public endpoints:
 
@@ -10,6 +10,8 @@ For immediate use with Claude.AI without local setup, use these public endpoints
 - **Server-Sent Events**: `https://chart.mcp.cloudcertainty.com/sse`
 
 Simply add either endpoint to your Claude.AI MCP configuration to start generating charts immediately.
+
+![Claude AI](screenshot/image.png)
 
 ## Features
 
