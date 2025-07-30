@@ -69,8 +69,6 @@ Simply add either endpoint to your Claude.AI MCP configuration to start generati
    npm start
    ```
 
-
-
 ## Usage Examples
 
 ### Basic Bar Chart
