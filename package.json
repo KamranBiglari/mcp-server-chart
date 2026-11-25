@@ -12,14 +12,14 @@
 		"type-check": "tsc --noEmit"
 	},
 	"dependencies": {
-		"@modelcontextprotocol/sdk": "^1.13.0",
-		"agents": "^0.0.95",
-		"zod": "^3.25.67",
-		"zod-to-json-schema": "^3.24.6"
+		"@modelcontextprotocol/sdk": "^1.32.2",
+		"agents": "^0.34.0",
+		"zod": "^4.6.7",
+		"zod-to-json-schema": "^3.25.2"
 	},
 	"devDependencies": {
 		"@biomejs/biome": "^2.0.4",
 		"typescript": "^5.8.3",
-		"wrangler": "^4.20.5"
+		"wrangler": "^4.168.0"
 	}
 }
